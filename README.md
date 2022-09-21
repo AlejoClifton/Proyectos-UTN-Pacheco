@@ -1,6 +1,6 @@
 # Proyectos UTN Pacheco
 
-### Esta es un recorrido en mis proyectos entre el 2020 y 2021 en la Tecnicatura de programación de la UTN de Pacheco. Promedio 9.
+### Este es un recorrido en mis proyectos entre el 2020 y 2021 en la Tecnicatura de programación de la UTN de Pacheco. Promedio 9.
 
 #### Lenguajes usados:
 
